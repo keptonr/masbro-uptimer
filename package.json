@@ -10,6 +10,9 @@
   "keywords": [],
   "author": "JametWlee",
   "license": "ISC",
+  "devDependencies": {
+    "node": "^19.5.0"
+  },
   "dependencies": {
     "@discordjs/rest": "^1.5.0",
     "ascii-table": "^0.0.9",
